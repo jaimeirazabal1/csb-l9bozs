@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://jaimeirazabal1.github.io/csb-l9bozs/static/css/main.8f0388a0.chunk.css",
+    "main.js": "https://jaimeirazabal1.github.io/csb-l9bozs/static/js/main.39490bac.chunk.js",
+    "main.js.map": "https://jaimeirazabal1.github.io/csb-l9bozs/static/js/main.39490bac.chunk.js.map",
+    "runtime-main.js": "https://jaimeirazabal1.github.io/csb-l9bozs/static/js/runtime-main.106eb9ba.js",
+    "runtime-main.js.map": "https://jaimeirazabal1.github.io/csb-l9bozs/static/js/runtime-main.106eb9ba.js.map",
+    "static/css/2.d668f133.chunk.css": "https://jaimeirazabal1.github.io/csb-l9bozs/static/css/2.d668f133.chunk.css",
+    "static/js/2.960c803f.chunk.js": "https://jaimeirazabal1.github.io/csb-l9bozs/static/js/2.960c803f.chunk.js",
+    "static/js/2.960c803f.chunk.js.map": "https://jaimeirazabal1.github.io/csb-l9bozs/static/js/2.960c803f.chunk.js.map",
+    "index.html": "https://jaimeirazabal1.github.io/csb-l9bozs/index.html",
+    "static/css/2.d668f133.chunk.css.map": "https://jaimeirazabal1.github.io/csb-l9bozs/static/css/2.d668f133.chunk.css.map",
+    "static/css/main.8f0388a0.chunk.css.map": "https://jaimeirazabal1.github.io/csb-l9bozs/static/css/main.8f0388a0.chunk.css.map",
+    "static/js/2.960c803f.chunk.js.LICENSE.txt": "https://jaimeirazabal1.github.io/csb-l9bozs/static/js/2.960c803f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.106eb9ba.js",
+    "static/css/2.d668f133.chunk.css",
+    "static/js/2.960c803f.chunk.js",
+    "static/css/main.8f0388a0.chunk.css",
+    "static/js/main.39490bac.chunk.js"
+  ]
+}
